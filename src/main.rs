@@ -9,10 +9,10 @@ use std::{
 static STYLE: &str = "
 <style>
 .diff-add {
-    background-color: green;
+    background-color: lightgreen;
 }
 .diff-del {
-    background-color: red;
+    background-color: lightcoral;
     text-decoration: line-through;
 }
 </style>
